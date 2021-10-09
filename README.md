@@ -18,5 +18,6 @@ Below are links to different open source projects from [Prof. Keutzer](https://p
 * [TRAttack: Trust Region Adversarial Attack](https://github.com/amirgholami/TRAttack)
 * [ShiftNet](https://github.com/alvinwan/shiftresnet-cifar)
 * [SqueezeDet](https://github.com/BichenWuUCB/squeezeDet)
+* [SqueezeNext: Hardware-aware Neural Network Design](https://github.com/amirgholami/SqueezeNext)
 * [SqueezeSeg](https://github.com/BichenWuUCB/SqueezeSeg)
 * [ZeroQ: A Novel Zero Shot Quantization Framework](https://github.com/amirgholami/ZeroQ)
