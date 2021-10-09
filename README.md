@@ -15,6 +15,7 @@ Below are links to different open source projects from [Prof. Keutzer](https://p
 * [MADAN](https://github.com/Luodian/MADAN)
 * [PowerNorm: Rethinking Batch Normalization in Transformers](https://github.com/sIncerass/powernorm)
 * [PyHessian: Neural Networks Through the Lens of the Hessian](https://github.com/amirgholami/PyHessian)
+* [Q-ASR: Integer-only Zero-shot Quantization for Efficient Speech Recognition](https://github.com/kssteven418/Q-ASR)
 * [TRAttack: Trust Region Adversarial Attack](https://github.com/amirgholami/TRAttack)
 * [ShiftNet](https://github.com/alvinwan/shiftresnet-cifar)
 * [SqueezeDet](https://github.com/BichenWuUCB/squeezeDet)
