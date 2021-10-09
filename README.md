@@ -2,15 +2,11 @@
 
 Below are links to different open source projects from [Prof. Keutzer](https://people.eecs.berkeley.edu/~keutzer)'s lab at UC Berkeley.
 
-*[AdaHessian: A Second-order Optimization Algorithm](https://github.com/amirgholami/adahessian)
-
-*[ANODE: Unconditionally Accurate Memory-efficient Gradients for Neural ODEs](https://github.com/amirgholami/anode)
-
-*[DiracDeltaNet](https://github.com/Yang-YiFan/DiracDeltaNet)
-
-*[DRPC](https://github.com/xyyue/DRPC)
-
-*[LiDAR](https://github.com/bernwang/LiDAR-annotator)
+* [AdaHessian: A Second-order Optimization Algorithm](https://github.com/amirgholami/adahessian)
+* [ANODE: Unconditionally Accurate Memory-efficient Gradients for Neural ODEs](https://github.com/amirgholami/anode)
+* [DiracDeltaNet](https://github.com/Yang-YiFan/DiracDeltaNet)
+* [DRPC](https://github.com/xyyue/DRPC)
+* [LiDAR](https://github.com/bernwang/LiDAR-annotator)
 
 *[LTP: Learned Token Pruning](https://github.com/kssteven418/ltp)
 *[HAP: Hessian Aware Pruning and Neural Implant](https://github.com/yaozhewei/hap)
