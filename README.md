@@ -12,7 +12,6 @@ Below are links to different open source projects from [Prof. Keutzer](https://p
 # Neural Network Architecture Design
 * [ANODE: Unconditionally Accurate Memory-efficient Gradients for Neural ODEs](https://github.com/amirgholami/anode)
 * [DiracDeltaNet](https://github.com/Yang-YiFan/DiracDeltaNet)
-* [DRPC](https://github.com/xyyue/DRPC)
 * [LiDAR](https://github.com/bernwang/LiDAR-annotator)
 * [LTP: Learned Token Pruning](https://github.com/kssteven418/ltp)
 * [SqueezeNext: Hardware-aware Neural Network Design](https://github.com/amirgholami/SqueezeNext)
@@ -31,4 +30,5 @@ Below are links to different open source projects from [Prof. Keutzer](https://p
  
 # Domain Randomization and Domain Adaptation
 * [MADAN](https://github.com/Luodian/MADAN)
+* [PCS for Few-shot Unsupervised Domain Adaptation](https://github.com/zhengzangw/PCS-FUDA)
 
