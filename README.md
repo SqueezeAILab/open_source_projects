@@ -9,8 +9,6 @@ Below are links to different open source projects from [Prof. Keutzer](https://p
 * [PyHessian: Neural Networks Through the Lens of the Hessian](https://github.com/amirgholami/PyHessian)
 * [TRAttack: Trust Region Adversarial Attack](https://github.com/amirgholami/TRAttack)
 
-
-
 # Neural Network Architecture Design
 * [ANODE: Unconditionally Accurate Memory-efficient Gradients for Neural ODEs](https://github.com/amirgholami/anode)
 * [DiracDeltaNet](https://github.com/Yang-YiFan/DiracDeltaNet)
@@ -23,13 +21,13 @@ Below are links to different open source projects from [Prof. Keutzer](https://p
 * [SqueezeSeg](https://github.com/BichenWuUCB/SqueezeSeg)
 
 # Efficient Inference and Compression
+* [BitPack: A Practical Tool to Efficiently Save Ultra-Low Precision/Mixed-Precision Quantized Models](https://github.com/Zhen-Dong/BitPack)
+* [CoDeNet: Efficient Deployment of Input-Adaptive Object Detection on Embedded FPGAs](https://github.com/Zhen-Dong/CoDeNet)
 * [HAP: Hessian Aware Pruning and Neural Implant](https://github.com/yaozhewei/hap)
 * [HAWQ: Hessian Aware Quantization](https://github.com/Zhen-Dong/HAWQ)
 * [IBERT: Integer Only BERT Quantization](https://github.com/kssteven418/I-BERT)
 * [Q-ASR: Integer-only Zero-shot Quantization for Efficient Speech Recognition](https://github.com/kssteven418/Q-ASR)
 * [ZeroQ: A Novel Zero Shot Quantization Framework](https://github.com/amirgholami/ZeroQ)
-* [CoDeNet: Efficient Deployment of Input-Adaptive Object Detection on Embedded FPGAs](https://github.com/Zhen-Dong/CoDeNet)
-* [BitPack: A Practical Tool to Efficiently Save Ultra-Low Precision/Mixed-Precision Quantized Models](https://github.com/Zhen-Dong/BitPack)
  
 # Domain Randomization and Domain Adaptation
 * [MADAN](https://github.com/Luodian/MADAN)
