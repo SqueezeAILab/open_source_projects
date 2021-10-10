@@ -28,6 +28,8 @@ Below are links to different open source projects from [Prof. Keutzer](https://p
 * [IBERT: Integer Only BERT Quantization](https://github.com/kssteven418/I-BERT)
 * [Q-ASR: Integer-only Zero-shot Quantization for Efficient Speech Recognition](https://github.com/kssteven418/Q-ASR)
 * [ZeroQ: A Novel Zero Shot Quantization Framework](https://github.com/amirgholami/ZeroQ)
+* [CoDeNet: Efficient Deployment of Input-Adaptive Object Detection on Embedded FPGAs](https://github.com/Zhen-Dong/CoDeNet)
+* [BitPack: A Practical Tool to Efficiently Save Ultra-Low Precision/Mixed-Precision Quantized Models](https://github.com/Zhen-Dong/BitPack)
  
 # Domain Randomization and Domain Adaptation
 * [MADAN](https://github.com/Luodian/MADAN)
