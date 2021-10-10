@@ -12,12 +12,16 @@ Below are links to different open source projects from [Prof. Keutzer](https://p
 # Neural Network Architecture Design
 * [ANODE: Unconditionally Accurate Memory-efficient Gradients for Neural ODEs](https://github.com/amirgholami/anode)
 * [DiracDeltaNet](https://github.com/Yang-YiFan/DiracDeltaNet)
+* [Image2Point](https://github.com/chenfengxu714/image2point)
 * [LiDAR](https://github.com/bernwang/LiDAR-annotator)
 * [LTP: Learned Token Pruning](https://github.com/kssteven418/ltp)
 * [SqueezeNext: Hardware-aware Neural Network Design](https://github.com/amirgholami/SqueezeNext)
 * [ShiftNet](https://github.com/alvinwan/shiftresnet-cifar)
 * [SqueezeDet](https://github.com/BichenWuUCB/squeezeDet)
 * [SqueezeSeg](https://github.com/BichenWuUCB/SqueezeSeg)
+* [SqueezeSegV2](https://github.com/xuanyuzhou98/SqueezeSegV2)
+* [SqueezeSegV3](https://github.com/chenfengxu714/SqueezeSegV3)
+* [YOGO](https://github.com/chenfengxu714/YOGO)
 
 # Efficient Inference and Compression
 * [BitPack: A Practical Tool to Efficiently Save Ultra-Low Precision/Mixed-Precision Quantized Models](https://github.com/Zhen-Dong/BitPack)
