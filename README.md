@@ -14,7 +14,6 @@ Below are links to different open source projects from [Prof. Keutzer](https://p
 * [DiracDeltaNet](https://github.com/Yang-YiFan/DiracDeltaNet)
 * [Image2Point](https://github.com/chenfengxu714/image2point)
 * [LiDAR](https://github.com/bernwang/LiDAR-annotator)
-* [LTP: Learned Token Pruning](https://github.com/kssteven418/ltp)
 * [SqueezeNext: Hardware-aware Neural Network Design](https://github.com/amirgholami/SqueezeNext)
 * [ShiftNet](https://github.com/alvinwan/shiftresnet-cifar)
 * [SqueezeDet](https://github.com/BichenWuUCB/squeezeDet)
@@ -28,9 +27,10 @@ Below are links to different open source projects from [Prof. Keutzer](https://p
 * [CoDeNet: Efficient Deployment of Input-Adaptive Object Detection on Embedded FPGAs](https://github.com/Zhen-Dong/CoDeNet)
 * [HAP: Hessian Aware Pruning and Neural Implant](https://github.com/yaozhewei/hap)
 * [HAWQ: Hessian Aware Quantization](https://github.com/Zhen-Dong/HAWQ)
-* [IBERT: Integer Only BERT Quantization](https://github.com/kssteven418/I-BERT)
+* [I-BERT: Integer Only BERT Quantization](https://github.com/kssteven418/I-BERT)
 * [Q-ASR: Integer-only Zero-shot Quantization for Efficient Speech Recognition](https://github.com/kssteven418/Q-ASR)
 * [ZeroQ: A Novel Zero Shot Quantization Framework](https://github.com/amirgholami/ZeroQ)
+* [LTP: Learned Token Pruning](https://github.com/kssteven418/ltp)
  
 # Domain Randomization and Domain Adaptation
 * [MADAN](https://github.com/Luodian/MADAN)
